@@ -1,4 +1,4 @@
-## Docuperform your space
+## Docu-perform your space
 
 You can use the [editor on GitHub](https://github.com/BarrioFluido/pilot-workshop-docuperform-your-space/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
