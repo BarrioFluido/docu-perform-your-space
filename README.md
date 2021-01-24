@@ -21,13 +21,13 @@ From the convesation with Con empatia Perú, which is a transfeminine NGO:
 - This session is expected to have 10 members of the transfeminine community.
 - The person in charge of the session, Gianna, told me that this community is much more receptive if the one person leading the activity is someone their recognise as part of their community. so this guide is mostly for Gianna to lead the session. 
  
-### 2. Creation of guidelines:
+### 2. Creation of the first guide:
 
 - Photogrametry guide - Aubrey 
 - Runway ML guide - Jesenia 
 - Performative guide? - who? - a curator? - an artist? a educator? a community leader?
 
-### 3. Execution of first guide
+### 3. Use of the first guide:
 
 - Actively looking for communities who might be interested in using the guide on a specific workshop that they will organize with their communities.
 - Create the metric tools to use before and after the use of this guide in the workshops, we might need help from a psychologist. (Zaida?)
